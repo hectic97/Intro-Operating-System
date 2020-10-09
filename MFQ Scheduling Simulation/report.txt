@@ -1,0 +1,66 @@
+=========================Gantt Chart=========================
+
+Time 0  ~ 2  :  Process 1
+Time 2  ~ 4  :  Process 2
+Time 4  ~ 8  :  Process 1
+Time 8  ~ 12 :  Process 2
+Time 12 ~ 20 :  Process 3
+Time 20 ~ 24 :  Process 5
+Time 24 ~ 28 :  Process 1
+Time 28 ~ 36 :  Process 2
+Time 36 ~ 44 :  Process 5
+Time 44 ~ 49 :  Process 4
+Time 49 ~ 61 :  Process 1
+Time 61 ~ 83 :  Process 3
+Time 83 ~ 87 :  Process 4
+Time 87 ~ 128 :  Process 2
+Time 128 ~ 132 :  Process 4
+Time 132 ~ 140 :  Process 3
+Time 140 ~ 144 :  Process 4
+Time 144 ~ 152 :  Process 2
+Time 152 ~ 190 :  Process 5
+Time 190 ~ 196 :  Process 1
+Time 196 ~ 208 :  Process 3
+Time 208 ~ 216 :  Process 5
+Time 216 ~ 224 :  Process 3
+Time 224 ~ 232 :  Process 1
+Time 232 ~ 264 :  Process 2
+Time 264 ~ 296 :  Process 5
+Time 296 ~ 304 :  Process 2
+Time 304 ~ 312 :  Process 5
+Time 312 ~ 319 :  Process 3
+Time 319 ~ 326 :  Process 1
+Time 326 ~ 334 :  Process 3
+Time 334 ~ 371 :  Process 2
+Time 371 ~ 379 :  Process 1
+Time 379 ~ 401 :  Process 5
+Time 401 ~ 409 :  Process 2
+Time 409 ~ 417 :  Process 5
+Time 417 ~ 422 :  Process 3
+Time 422 ~ 434 :  Process 1
+Time 434 ~ 442 :  Process 3
+Time 442 ~ 484 :  Process 2
+Time 484 ~ 492 :  Process 1
+Time 492 ~ 499 :  Process 5
+Time 499 ~ 511 :  Process 3
+Time 511 ~ 519 :  Process 2
+Time 519 ~ 527 :  Process 3
+Time 527 ~ 535 :  Process 1
+Time 535 ~ 567 :  Process 2
+Time 567 ~ 577 :  Process 3
+Time 577 ~ 581 :  No process
+Time 581 ~ 589 :  Process 3
+Time 589 ~ 597 :  Process 2
+Time 597 ~ 604 :  Process 3
+Time 604 ~ 646 :  Process 2
+
+==================================================
+Process  Turnaround Time  Waiting Time
+    1         535            386
+    2         645            277
+    3         600            444
+    4         136            101
+    5         483            322
+
+Average TT: 479.8000
+Average WT: 306.0000
