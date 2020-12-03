@@ -18,3 +18,6 @@ Example input.txt<br>
 5 4 3 10<br>
 2 0 3 1 4 1 0 1 2 3 <br>
 <br><br>
+
+## Example Log
+![image](https://user-images.githubusercontent.com/61140071/100998932-7c838b80-359f-11eb-9283-58c68832a62a.png)
