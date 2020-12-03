@@ -10,10 +10,11 @@ Python: 3.8.2
 알고리즘 목록: MIN, FIFO, LFU, LRU, Clock, WS
 
 ## input
-page 수, memory frame 개수, window size, page reference string 길이
-page reference string
-
-예시
-5 4 3 10
-2 0 3 1 4 1 0 1 2 3 
-
+page 수, memory frame 개수, window size, page reference string 길이<br>
+page reference string<br>
+<br>
+<br>
+Example input.txt<br>
+5 4 3 10<br>
+2 0 3 1 4 1 0 1 2 3 <br>
+<br><br>
